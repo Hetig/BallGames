@@ -1,0 +1,14 @@
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\bin\Debug\FruitNinjaWindowsFormsApp.exe.config
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\bin\Debug\FruitNinjaWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\bin\Debug\FruitNinjaWindowsFormsApp.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\bin\Debug\Balls.Common.dll
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\bin\Debug\Balls.Common.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.MainForm.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.Properties.Resources.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.csproj.CopyComplete
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\FruitNinjaWindowsFormsApp\obj\Debug\FruitNinjaWindowsFormsApp.pdb

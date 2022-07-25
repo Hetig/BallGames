@@ -1,0 +1,14 @@
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\bin\Debug\BilliardBallsWindowsFormsApp.exe.config
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\bin\Debug\BilliardBallsWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\bin\Debug\BilliardBallsWindowsFormsApp.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\bin\Debug\Balls.Common.dll
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\bin\Debug\Balls.Common.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.MainForm.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.Properties.Resources.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.csproj.CopyComplete
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BilliardBallsWindowsFormsApp\obj\Debug\BilliardBallsWindowsFormsApp.pdb
