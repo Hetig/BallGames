@@ -1,0 +1,14 @@
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\bin\Debug\AngryBirdsWindowsFormsApp.exe.config
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\bin\Debug\AngryBirdsWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\bin\Debug\AngryBirdsWindowsFormsApp.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\bin\Debug\Balls.Common.dll
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\bin\Debug\Balls.Common.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\obj\Debug\AngryBirdsWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\obj\Debug\AngryBirdsWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\obj\Debug\AngryBirdsWindowsFormsApp.MainForm.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\obj\Debug\AngryBirdsWindowsFormsApp.Properties.Resources.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\obj\Debug\AngryBirdsWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\obj\Debug\AngryBirdsWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\obj\Debug\AngryBirdsWindowsFormsApp.csproj.CopyComplete
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\obj\Debug\AngryBirdsWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\AngryBirdsWindowsFormsApp\obj\Debug\AngryBirdsWindowsFormsApp.pdb

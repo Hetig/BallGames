@@ -1,0 +1,16 @@
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\bin\Debug\BallGameWindowsFormsApp.exe.config
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\bin\Debug\BallGameWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\bin\Debug\BallGameWindowsFormsApp.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\obj\Debug\BallGameWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\obj\Debug\BallGameWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\obj\Debug\BallGameWindowsFormsApp.Properties.Resources.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\obj\Debug\BallGameWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\obj\Debug\BallGameWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\obj\Debug\BallGameWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\obj\Debug\BallGameWindowsFormsApp.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\bin\Debug\System.Drawing.Common.dll
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\bin\Debug\System.Drawing.Common.xml
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\obj\Debug\BallGameWindowsFormsApp.csproj.CopyComplete
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\bin\Debug\Balls.Common.dll
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\bin\Debug\Balls.Common.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\BallGameWindowsFormsApp\obj\Debug\Balls.Common.MainForm.resources
