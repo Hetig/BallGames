@@ -1,0 +1,14 @@
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\bin\Debug\SecondBallGameWindowsFormsApp.exe.config
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\bin\Debug\SecondBallGameWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\bin\Debug\SecondBallGameWindowsFormsApp.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\bin\Debug\Balls.Common.dll
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\bin\Debug\Balls.Common.pdb
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\obj\Debug\SecondBallGameWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\obj\Debug\SecondBallGameWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\obj\Debug\SecondBallGameWindowsFormsApp.MainForm.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\obj\Debug\SecondBallGameWindowsFormsApp.Properties.Resources.resources
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\obj\Debug\SecondBallGameWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\obj\Debug\SecondBallGameWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\obj\Debug\SecondBallGameWindowsFormsApp.csproj.CopyComplete
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\obj\Debug\SecondBallGameWindowsFormsApp.exe
+C:\Users\khha4\source\repos\OnlineCourse9Stream\BallGameWindowsFormsApp\SecondBallGameWindowsFormsApp\obj\Debug\SecondBallGameWindowsFormsApp.pdb

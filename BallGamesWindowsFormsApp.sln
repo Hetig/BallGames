@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallGameWindowsFormsApp", "BallGameWindowsFormsApp\BallGameWindowsFormsApp.csproj", "{D9F3A925-DDC4-4368-B946-B1533ABB06A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondBallGameWindowsFormsApp", "SecondBallGameWindowsFormsApp\SecondBallGameWindowsFormsApp.csproj", "{BF87BD30-BAEE-4D3E-89F0-2037155F4783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balls.Common", "Balls.Common\Balls.Common.csproj", "{2AED3B58-2FE6-4F88-B09C-0B368B3BE87E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilliardBallsWindowsFormsApp", "BilliardBallsWindowsFormsApp\BilliardBallsWindowsFormsApp.csproj", "{CE0EB607-EC90-404F-890F-CE38EC1C754D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalutWindowsFormsApp", "SalutWindowsFormsApp\SalutWindowsFormsApp.csproj", "{23C6D2FE-83D0-4637-BDEC-654B6968DFDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitNinjaWindowsFormsApp", "FruitNinjaWindowsFormsApp\FruitNinjaWindowsFormsApp.csproj", "{C4B10440-10D2-47C4-BD10-22780707F7E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngryBirdsWindowsFormsApp", "AngryBirdsWindowsFormsApp\AngryBirdsWindowsFormsApp.csproj", "{C8A52E30-2FA2-4A68-BBC4-D8D3831BBE01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F3A925-DDC4-4368-B946-B1533ABB06A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F3A925-DDC4-4368-B946-B1533ABB06A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F3A925-DDC4-4368-B946-B1533ABB06A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F3A925-DDC4-4368-B946-B1533ABB06A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF87BD30-BAEE-4D3E-89F0-2037155F4783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF87BD30-BAEE-4D3E-89F0-2037155F4783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF87BD30-BAEE-4D3E-89F0-2037155F4783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF87BD30-BAEE-4D3E-89F0-2037155F4783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AED3B58-2FE6-4F88-B09C-0B368B3BE87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AED3B58-2FE6-4F88-B09C-0B368B3BE87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AED3B58-2FE6-4F88-B09C-0B368B3BE87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AED3B58-2FE6-4F88-B09C-0B368B3BE87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0EB607-EC90-404F-890F-CE38EC1C754D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0EB607-EC90-404F-890F-CE38EC1C754D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0EB607-EC90-404F-890F-CE38EC1C754D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0EB607-EC90-404F-890F-CE38EC1C754D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C6D2FE-83D0-4637-BDEC-654B6968DFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C6D2FE-83D0-4637-BDEC-654B6968DFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C6D2FE-83D0-4637-BDEC-654B6968DFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C6D2FE-83D0-4637-BDEC-654B6968DFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B10440-10D2-47C4-BD10-22780707F7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B10440-10D2-47C4-BD10-22780707F7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B10440-10D2-47C4-BD10-22780707F7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B10440-10D2-47C4-BD10-22780707F7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A52E30-2FA2-4A68-BBC4-D8D3831BBE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A52E30-2FA2-4A68-BBC4-D8D3831BBE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A52E30-2FA2-4A68-BBC4-D8D3831BBE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A52E30-2FA2-4A68-BBC4-D8D3831BBE01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4971684-6E67-4380-94D2-70666FD56A9E}
+	EndGlobalSection
+EndGlobal
